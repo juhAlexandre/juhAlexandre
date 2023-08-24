@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Da uma olhadinha👀 nesse [portifolio](https://jussaraalexandre.github.io/portifolio/) e  da um feedback😉
+Da uma olhadinha👀 nesse [portifólio](https://jussaraalexandre.github.io/portifolio/) e dá um feedback😉
 
 <!---
 juhAlexandre/juhAlexandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
